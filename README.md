@@ -7,8 +7,8 @@ Trò chơi được lấy cảm hứng từ game kinh điển Pacman và đồ h
 Tệp thực thi: **`main.exe`**
 Dự án yêu cầu thư viện SDL2: `SDL2`, `SDL2-image`, `SDL2-mixer`, `SDL2-ttf`
 
-Các bước thực hiện:
-**Bước 1:** Tải xuống (hoặc clone) 
+Các bước thực hiện: \
+**Bước 1:** Tải xuống (hoặc clone) \ 
 **Bước 2:** Mở tệp thực thi
 
 _Nếu tệp thực thi không hoạt động:_
