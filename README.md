@@ -4,7 +4,7 @@
 Trò chơi được lấy cảm hứng từ game kinh điển Pacman và đồ họa từ Among Us
 
 ### Hướng dẫn cài đặt
-Tệp thực thi: **`main.exe`**
+Tệp thực thi: **`main.exe`**\
 Dự án yêu cầu thư viện SDL2: `SDL2`, `SDL2-image`, `SDL2-mixer`, `SDL2-ttf`
 
 Các bước thực hiện: \
