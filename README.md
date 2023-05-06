@@ -19,18 +19,20 @@ _Nếu tệp thực thi không hoạt động:_
 ### Hướng dẫn chơi
 
 Bạn có thể làm gì với `MenuGame`?
-> * **Thay đổi độ khó (Difficulty):** ***easy,*** ***medium*** và ***hard*** (Bật mí nhỏ: độ khó càng cao thì số địch đuổi bạn càng nhiều đấy) 
-> * **Thay đổi nhân vật (Game Player):** có ***8 nhân vật*** tất cả cho bạn lựa chọn
-> * **Cài đặt trò chơi (Settings):** Bật tắt âm thanh và thay đổi màn hình
-> * **Kết nối với chúng tôi (Contact us):** Nơi bạn gửi những lời phản hồi
->![menugame](data/ImageMenu.png)
+ * **Thay đổi độ khó (Difficulty):** ***easy,*** ***medium*** và ***hard*** (Bật mí nhỏ: độ khó càng cao thì số địch đuổi bạn càng nhiều đấy) 
+ * **Thay đổi nhân vật (Game Player):** có ***8 nhân vật*** tất cả cho bạn lựa chọn
+ * **Cài đặt trò chơi (Settings):** Bật tắt âm thanh và thay đổi màn hình
+ * **Kết nối với chúng tôi (Contact us):** Nơi bạn gửi những lời phản hồi
+ 
+    ![menugame](data/ImageMenu.png)
 
 Chơi game như thế nào?
 
-> * **Hãy cẩn thận địch và bom:** bạn sẽ thua ngay khi bị địch bắt và chạm vào bom đang nổ _(Bom sẽ nổ tại vị trí màu hồng bất kì)_
-> * **Ăn hết tiền vàng:** để thắng được level này và chuyển lên level khác, hãy thu thập đủ số tiền vàng
-> * Nhấn **Start Game** để bắt đầu trải nghiệm nào!
-> ![gameimage](data/ImageGame.png)
+ * **Hãy cẩn thận địch và bom:** bạn sẽ thua ngay khi bị địch bắt và chạm vào bom đang nổ _(Bom sẽ nổ tại vị trí màu hồng bất kì)_
+ * **Ăn hết tiền vàng:** để thắng được level này và chuyển lên level khác, hãy thu thập đủ số tiền vàng
+ * Nhấn **Start Game** để bắt đầu trải nghiệm nào!
+
+    ![gameimage](data/ImageGame.png)
 
 
 ### Các kĩ thuật sử dụng
