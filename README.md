@@ -1,6 +1,6 @@
 ## StarUs Game
 
-###Giới thiệu
+### Giới thiệu
 Trò chơi được lấy cảm hứng từ game kinh điển Pacman và đồ họa từ Among Us
 
 ### Hướng dẫn cài đặt
