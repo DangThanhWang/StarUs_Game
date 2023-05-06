@@ -37,13 +37,9 @@ Chơi game như thế nào?
 
 ### Các kĩ thuật sử dụng
 
-- Thư viện SDL2.0.
 - Tìm hiểu lập trình hướng đối tượng.
-- Kĩ thuật đọc ghi file.
-- Kĩ thuật chia file header và file source.
-- Tạo các đối tượng: nhân vật với tính năng như xử lí sự kiện, va chạm, ...
-- Tạo các đối tượng phụ: bản đồ, tiền, bom...
-- Tạo âm thanh... (có thể bật hoặc tắt bất cứ lúc nào).
+- Tạo các đối tượng
+- Tạo âm thanh (có thể bật hoặc tắt bất cứ lúc nào).
 - Tạo các menu: Bắt đầu, độ khó, nhân vật, cài đặt, thoát...
 - Liên kết với các đường link ngoài.
 - Đóng gói chương trình để có thể cài đặt, chơi được ở các máy tính thông thường.
