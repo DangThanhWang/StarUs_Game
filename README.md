@@ -8,7 +8,7 @@ Trò chơi được lấy cảm hứng từ game kinh điển Pacman và đồ h
 **Bước 1:** Cài đặt thư viện SDL 
 > * Bạn có thể làm theo hướng dẫn sau: [Cách cài đặt SDL](https://phattrienphanmem123az.com/lap-trinh-game-cpp/bai-1-gioi-thieu-cai-dat.html)
 
-**Bước 2:** Cài đặt
+**Bước 2:** Cài đặt \
 **Bước 3:** Clone this repo
 
 ### Hướng dẫn chơi
@@ -57,7 +57,8 @@ Chơi game như thế nào?
 ### Nguồn tham khảo
 - https://lazyfoo.net/tutorials/SDL/index.php (các hàm trong thư viện SDL2.0, ...)
 
-- https://phattrienphanmem123az.com/lap-trinh-game-c-p2 (kĩ thuật lập trình hướng đối tượng, tile map, fps, ...).
+- https://phattrienphanmem123az.com/lap-trinh-game-c-p2 (kĩ thuật lập trình hướng đối tượng,...).
+- https://wiki.libsdl.org/SDL2/Tutorials
 
 ### Lời cảm ơn
 Chân thành cảm ơn sự đồng hành của [Mỹ Hạnh](https://www.facebook.com/profile.php?id=100024650258522) - người đã cùng tôi tạo ra đồ họa tốt hơn - Chúc bạn trở thành một designer chuyên nghiệp :>
