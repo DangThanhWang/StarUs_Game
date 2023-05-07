@@ -19,8 +19,8 @@ _Nếu tệp thực thi không hoạt động:_
 ### Hướng dẫn chơi
 
 Bạn có thể làm gì với `MenuGame`?
- * **Thay đổi độ khó (Difficulty):** ***easy,*** ***medium*** và ***hard*** (Bật mí nhỏ: độ khó càng cao thì số địch đuổi bạn càng nhiều đấy) 
- * **Thay đổi nhân vật (Game Player):** có ***8 nhân vật*** tất cả cho bạn lựa chọn
+ * **Thay đổi độ khó (Difficulty):** ***easy,*** ***medium*** và ***hard*** _(Bật mí nhỏ: độ khó càng cao thì số địch đuổi bạn càng nhiều đấy)_
+ * **Thay đổi nhân vật (Game Player):** có tất cả ***8 nhân vật*** cho bạn lựa chọn
  * **Cài đặt trò chơi (Settings):** Bật tắt âm thanh và thay đổi màn hình
  * **Kết nối với chúng tôi (Contact us):** Nơi bạn gửi những lời phản hồi
  
