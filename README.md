@@ -39,10 +39,9 @@ Chơi game như thế nào?
 
 - Tìm hiểu lập trình hướng đối tượng.
 - Tạo các đối tượng
-- Tạo âm thanh (có thể bật hoặc tắt bất cứ lúc nào).
 - Tạo các menu: Bắt đầu, độ khó, nhân vật, cài đặt, thoát...
 - Liên kết với các đường link ngoài.
-- Đóng gói chương trình để có thể cài đặt, chơi được ở các máy tính thông thường.
+- Đóng gói chương trình 
 
 ### Trải nghiệm
 
@@ -52,10 +51,10 @@ Chơi game như thế nào?
 - Sáng tạo thuật toán để game có điểm riêng hơn so với các game tương tự.
 
 ### Hướng phát triển
-- Làm game online đưa lên cho tất cả mọi người cùng chơi và sắp xếp điểm cho mọi người.
-- Sử dụng thêm nhiều thuật toán cho nhân vật di chuyển đa dạng hơn.
+- Làm game online 
+- Nhân vật di chuyển đa dạng hơn.
 - Trau chuốt hơn về âm thanh, hình ảnh.
-- Code rõ ràng, gọn gàng, đúng cấu trúc hơn.
+- Code rõ ràng, gọn gàng hơn.
 
 ### Nguồn tham khảo
 - https://lazyfoo.net/tutorials/SDL/index.php (các hàm trong thư viện SDL2.0, ...)

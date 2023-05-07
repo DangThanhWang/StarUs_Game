@@ -89,7 +89,7 @@ void Game::init(const char * title, int xpos, int ypos, int width, int height){
     buttonNextLevel->LoadTexFont("NEXT LEVEL", TextureManager::colorSkyBlue);
     buttonNextLevel->dstRect = {900, 450, 200, 50};
 
-    backGroundMenuMusic = Mix_LoadMUS("data/backgroundMusic.mp3");
+    backGroundMenuMusic = Mix_LoadMUS("data/backgroundMusic3.mp3");
     backGroundGameMusic = Mix_LoadMUS("data/backgroundMusic3.mp3");
     soundEffect = Mix_LoadWAV("data/soundEffect.wav");
     soundEffectGetCoin = Mix_LoadWAV("data/soundEffect3.wav");
@@ -404,7 +404,7 @@ void Game::runVideoIntro(){
     }
 
     j++;
-    if(j % 2 == 0 || 1) {
+    if(j % 2 == 0 ) {
         src.x += 1152;
         if(src.x >= 5760){
             src.x = 90;
